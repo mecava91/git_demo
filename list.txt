@@ -1,3 +1,4 @@
 things to do 
  practice java
 practice git
+add new things
